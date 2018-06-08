@@ -1,4 +1,4 @@
-# Dotfiles
+# Simple Dotfiles
 Simple dotfiles with common settings and tweaks.
 
 ## Installation
