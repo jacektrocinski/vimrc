@@ -1,5 +1,5 @@
 # Simple Dotfiles
-Simple dotfiles with common settings and tweaks.
+Simple dotfiles with commonly used settings and tweaks.
 
 ## Installation
 1. Download the dotfile(s) that interest you.
