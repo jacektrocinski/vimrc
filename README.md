@@ -22,5 +22,5 @@ Simple dotfiles with common settings and tweaks.
 * Clean `vimdiff` highlighting
 
 ## Thanks to
-* to Tim Pope and everybody that contributed to [sensible.vim](https://github.com/tpope/vim-sensible) 
+* to Tim Pope and everybody that contributed to [sensible.vim](https://github.com/tpope/vim-sensible).
 * to everybody that contributed to the [Vim Tips Wiki](http://vim.wikia.com/wiki/Searching).
