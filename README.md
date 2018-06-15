@@ -7,7 +7,9 @@ Simple dotfiles with commonly used settings and tweaks.
 1. You're done! Enjoy.
 
 ## Vim Settings
+* Syntax highlighting
 * Auto-indent
+* Backspace over anything
 * UTF-8 encoding
 * Show the status line
 * Show the line and column number of the cursor position

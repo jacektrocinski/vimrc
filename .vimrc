@@ -3,8 +3,19 @@
 "                                 Vim config
 " ------------------------------------------------------------------------------
 
+" Turn off vi compatibility mode
+set nocompatible
+
+" Syntax highlighting
+if has("syntax")
+	syntax enable
+endif
+
 " Auto-indent
 set autoindent
+
+" Backspace over anything
+set backspace=indent,eol,start
 
 " UTF-8 encoding
 set encoding=utf-8
@@ -12,7 +23,7 @@ set encoding=utf-8
 " Show the status line
 set laststatus=2
 
-" Show the line and column number of the cursor position
+" Show the cursor position
 set ruler
 
 " Hide the mouse pointer while typing
