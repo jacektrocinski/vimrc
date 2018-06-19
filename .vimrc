@@ -3,9 +3,6 @@
 "                                 Vim config
 " ------------------------------------------------------------------------------
 
-" Turn off vi compatibility mode
-set nocompatible
-
 " Syntax highlighting
 if has("syntax")
 	syntax enable
@@ -44,8 +41,9 @@ set incsearch
 " Ignore case when search is all lowercase
 set ignorecase
 set smartcase
-:nnoremap * /\<<C-R>=expand('<cword>')<CR>\><CR>
-:nnoremap # ?\<<C-R>=expand('<cword>')<CR>\><CR>
+
+" CTRL-L to clear search highlighting
+nnoremap <silent> <C-L> :nohlsearch<CR>
 
 " <F7> to go to the previous tab
 :map <F7> :tabp<CR>
@@ -54,7 +52,7 @@ set smartcase
 :map <F8> :tabn<CR>
 
 " Clean vimdiff highlighting
-:hi DiffAdd    	ctermbg=none
-:hi DiffChange	ctermbg=none
-:hi DiffDelete	ctermbg=none
-:hi DiffText 	ctermbg=none	cterm=reverse	
+:hi DiffAdd    			ctermbg=none
+:hi DiffChange			ctermbg=none
+:hi DiffDelete			ctermbg=none
+:hi DiffText 	cterm=reverse	ctermbg=none		
