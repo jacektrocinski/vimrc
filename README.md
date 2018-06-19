@@ -18,8 +18,8 @@ Simple dotfiles with commonly used settings and tweaks.
 * Highlight column 80
 * `<F5>` to toggle paste on or off, useful when pasting from the terminal
 * Start searching as you type, before pressing enter
-* `CTRL-L` to clear search highlighting
 * Ignore case when search is all lowercase
+* `CTRL-L` to clear search highlighting
 * `<F7>` to go to the previous tab
 * `<F8>` to go to the next tab
 * Clean `vimdiff` highlighting
