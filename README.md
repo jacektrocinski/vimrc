@@ -26,4 +26,4 @@ Simple dotfiles with commonly used settings and tweaks.
 
 ## Thanks to
 * to Tim Pope and everybody that contributed to [sensible.vim](https://github.com/tpope/vim-sensible).
-* to everybody that contributed to the [Vim Tips Wiki](http://vim.wikia.com/wiki/Searching).
+* to everybody that contributed to the [Vim Tips Wiki](http://vim.wikia.com/wiki/Vim_Tips_Wiki).
