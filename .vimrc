@@ -55,4 +55,4 @@ nnoremap <silent> <C-L> :nohlsearch<CR>
 :hi DiffAdd    			ctermbg=none
 :hi DiffChange			ctermbg=none
 :hi DiffDelete			ctermbg=none
-:hi DiffText 	cterm=reverse	ctermbg=none		
+:hi DiffText 	cterm=reverse	ctermbg=none
