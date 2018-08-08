@@ -52,7 +52,7 @@ nnoremap <silent> <C-L> :nohlsearch<CR>
 :map <F8> :tabn<CR>
 
 " Clean vimdiff highlighting
-:hi DiffAdd    			ctermbg=none
-:hi DiffChange			ctermbg=none
-:hi DiffDelete			ctermbg=none
-:hi DiffText 	cterm=reverse	ctermbg=none
+:hi DiffAdd                     ctermbg=none
+:hi DiffChange                  ctermbg=none
+:hi DiffDelete                  ctermbg=none
+:hi DiffText    cterm=reverse   ctermbg=none
