@@ -51,6 +51,9 @@ nnoremap <silent> <C-L> :nohlsearch<CR>
 " <F8> to go to the next tab
 :map <F8> :tabn<CR>
 
+" Highlight trailing end of line spaces
+:match Error /\s\+$/
+
 " Clean vimdiff highlighting
 :hi DiffAdd                     ctermbg=none
 :hi DiffChange                  ctermbg=none
