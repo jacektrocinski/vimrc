@@ -3,6 +3,12 @@
 "                                 Vim config
 " ------------------------------------------------------------------------------
 
+" Gvim config
+if has("gui_running")
+	" Set font
+	set guifont=Consolas:h14:cDEFAULT
+endif
+
 " Syntax highlighting
 if has("syntax")
 	syntax enable
