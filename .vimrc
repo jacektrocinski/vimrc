@@ -1,5 +1,5 @@
 " ------------------------------------------------------------------------------
-" Jacek Trociński                   .vimrc             github.com/jacektrocinski
+" Jacek Trociński                   .vimrc                https://jtrocinski.com
 "                                 Vim config
 " ------------------------------------------------------------------------------
 " Gvim config
