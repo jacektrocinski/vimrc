@@ -1,8 +1,7 @@
 " ------------------------------------------------------------------------------
-" JacK TrocinskI                    .vimrc              github.com/JacKTrocinskI
+" Jacek Trociński                   .vimrc             github.com/jacektrocinski
 "                                 Vim config
 " ------------------------------------------------------------------------------
-
 " Gvim config
 if has("gui_running")
 	" Set font
